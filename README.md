@@ -1,7 +1,7 @@
 # Omdena_Harrasment_prediction_competion
 This project is part of my omdena global competition, here we are given an anonymous crime data collected by safecity consist of Lat &amp; long and incident record, I am creating machine learning to predict the safety of region.
 
-![JupyterNB Viewer Link](https://nbviewer.jupyter.org/github/saurabh241930/Omdena_Harrasment_prediction_competion/tree/master/)
+[JupyterNB Viewer Link](https://nbviewer.jupyter.org/github/saurabh241930/Omdena_Harrasment_prediction_competion/tree/master/)
 
 Note: So for identifying safety, for 1st problem statement, I tried different types of method, following are some of the highlights of all the method that I have tried and will try to implement in coming weeks
 
