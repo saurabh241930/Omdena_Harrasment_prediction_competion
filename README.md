@@ -45,5 +45,12 @@ So I think if we could train a model to identify the similarity between images i
 
 <img src="https://i.imgur.com/STop5mp.png" border=0>
 
+## Feature Engineering:
+
+To identifying the buiding positions building , I am planning to use pre-trained mask-rcnn model used by Neptuneml on sattelite images
+
+<img src="https://i.imgur.com/R0MF98K.png" border=0>
+
+
 
 
