@@ -55,7 +55,7 @@ So I think if we could train a model to identify the similarity between images i
 * UnProcessed Satellite image
 * Bounding Box locations of buildings for spatial feature extraced my pre-trained **MASK_RCNN**.
 * Detecting presence of (**Schools,Police Stations , Companies , Hospitals**) using **OCR** on non-sattelite image.
-* Statistical data like **Crime conviction rate,Literacy rate** ,etc.
+* Statistical data like location wise**Crime conviction rate,Literacy rate** ,etc. from `data.gov.in`
 
 
 
