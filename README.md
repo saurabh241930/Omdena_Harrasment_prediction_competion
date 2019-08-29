@@ -47,7 +47,16 @@ So I think if we could train a model to identify the similarity between images i
 
 ## Feature Engineering:
 
-To identifying the buiding positions building , I am planning to use pre-trained mask-rcnn model used by Neptuneml on sattelite images
+To identifying the buiding positions building , I am planning to use pre-trained **mask-rcnn** model used by Neptuneml on sattelite images
+
+Also note that this feature alone won't able to create feature ,so I am planning to use other **numerical & categorical** data
+
+### Features(as of now):
+
+* UnProcessed Satellite image
+* Bounding Box locations of buildings for spatial feature
+* Detecting presence of (Schools,Police Stations , Companies , Hospitals) using OCR on non-sattelite image
+* Statistical data like Crime conviction rate,Literacy rate ,etc
 
 <img src="https://i.imgur.com/R0MF98K.png" border=0>
 
