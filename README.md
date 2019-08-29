@@ -53,10 +53,12 @@ Also note that this feature alone won't able to create feature ,so I am planning
 
 ### Features(as of now):
 
+```
 * UnProcessed Satellite image
 * Bounding Box locations of buildings for spatial feature
 * Detecting presence of (Schools,Police Stations , Companies , Hospitals) using OCR on non-sattelite image
 * Statistical data like Crime conviction rate,Literacy rate ,etc
+```
 
 <img src="https://i.imgur.com/R0MF98K.png" border=0>
 
