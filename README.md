@@ -70,8 +70,5 @@ To identifying the buiding positions building , I am planning to use pre-trained
 Identifying the presence of Schools,Police Stations , Companies , Hospitals,etc by eunning on this version of image.
 <img src="https://i.imgur.com/tRGHbky.gif" border=0>
 
-
-
-
-
+So instead of training OCR from scratch I,m planning to OCR service api and use that information
 
